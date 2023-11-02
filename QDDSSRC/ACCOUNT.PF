@@ -1,0 +1,10 @@
+     A                                      UNIQUE
+     A          R ACCOUNTR                  TEXT('ACCOUNT')
+     A            ACLEVELID      2P 0
+     A            ACORGCOD       3P 0
+     A            ACCOUNTNUM    12P 0
+     A            ACCURRENCY     3A
+     A            ACNAME        20A
+     A*
+     A          K ACLEVELID
+     A          K ACORGCOD
